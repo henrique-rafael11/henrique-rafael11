@@ -1,8 +1,8 @@
 ## Olá Eu sou o Henrique-Rafael11👋
 
-- 🔭 Pretendo trabalhar com Front-end
+- 🖥 Pretendo trabalhar com Front-end
 - 📫 Contato de Email garciahenrique539@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: ele
 - 🧑‍💻 Gosto de Apreender a Programar
 - ![ScalerCreateImpactGIF](https://github.com/henrique-rafael11/henrique-rafael11/assets/138715501/cd1e6447-1809-4937-a53a-f15211d0df59)
 
