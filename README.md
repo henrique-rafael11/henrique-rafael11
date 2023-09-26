@@ -1,5 +1,6 @@
 ## Olá Eu sou o Henrique-Rafael11👋
 
+- 👨‍💼Em Buscar do Primeiro Emprego
 - 🖥 Pretendo trabalhar com Front-end
 - 📫 Contato de Email garciahenrique539@gmail.com
 - 😄 Pronouns: ele
