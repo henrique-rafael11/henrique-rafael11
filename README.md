@@ -7,7 +7,7 @@
 
 - ## Redes Socias 
 
-- [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/henriquegarcia7030) [![Facebook]( https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Henrique_Rafael) [![Instagram]( https://img.shields.io/badge/Instagram-1877F2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/henrique.rsg_11)
+- [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.com/garciahenrique539@gmail.com) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/henriquegarcia7030) [![Facebook]( https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Henrique_Rafael) [![Instagram]( https://img.shields.io/badge/Instagram-1877F2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/henrique.rsg_11)
 
 - ![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-rafael11&show_icons=true&theme=radical)
 -  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-rafael11&layout=compact)
