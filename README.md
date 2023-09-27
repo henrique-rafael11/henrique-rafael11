@@ -9,7 +9,8 @@
 
 - ## Redes Socias 
 
-- [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.com/garciahenrique539@gmail.com) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/henriquegarcia7030) [![Facebook]( https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Henrique_Rafael) [![Instagram]( https://img.shields.io/badge/Instagram-1877F2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/henrique.rsg_11) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/henrique-rafael11)
+- [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.com/garciahenrique539@gmail.com) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/henriquegarcia7030) [![Facebook]( https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Henrique_Rafael) [![Instagram]( https://img.shields.io/badge/Instagram-1877F2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/henrique.rsg_11) 
+<a href="https://www.linkedin.com/in/henriquerafaelsgtecnicoti/" target="_blank">< img src="https://img.shields.io/badge/-linkedIn-%230077B5?style=for-the-bagde&logo=linkedin&logoColor=white" target="_blank"></a>
 
 - 
  <div>
