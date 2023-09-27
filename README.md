@@ -1,11 +1,11 @@
 ## Olá Eu sou o Henrique-Rafael11👋
 
-- 👨‍💼Em Buscar do Primeiro Emprego
-- 🖥 Pretendo trabalhar com Front-end
-- 📫 Contato de Email garciahenrique539@gmail.com
-- 😄 Pronouns: ele
-- 🧑‍💻 Gosto de Apreender a Programar
-- ![ScalerCreateImpactGIF](https://github.com/henrique-rafael11/henrique-rafael11/assets/138715501/cd1e6447-1809-4937-a53a-f15211d0df59)
+ 👨‍💼Em Buscar do Primeiro Emprego
+ 🖥 Pretendo trabalhar com Front-end
+ 📫 Contato de Email garciahenrique539@gmail.com
+ 😄 Pronouns: ele
+ 🧑‍💻 Gosto de Apreender a Programar
+ ![ScalerCreateImpactGIF](https://github.com/henrique-rafael11/henrique-rafael11/assets/138715501/cd1e6447-1809-4937-a53a-f15211d0df59)
 
 - ## Redes Socias 
 
@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/henriquerafaelsgtecnicoti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-- 
+
  <div>
    <a href="https://github.com/henrique-rafael11">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrique-rafael11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
