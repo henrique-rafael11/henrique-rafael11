@@ -1,4 +1,4 @@
-## Olá Eu sou o Henrique-Rafael11👋
+## Olá Eu sou o Henrique-Rafael11 🙂👋
 
  👨‍💼Em Buscar do Primeiro Emprego
  🖥 Pretendo trabalhar com Front-end
