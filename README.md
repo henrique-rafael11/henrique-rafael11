@@ -37,7 +37,7 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=000000)&nbsp;
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Contagem de visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{henrique-rafael11}/count.svg" /></p> 
 <br>
 </div>
