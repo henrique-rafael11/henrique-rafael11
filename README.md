@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b58de&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2b58de&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋🏼,+My+name+is+Henrique+Rafael;I'm+20+years+old;I'm+from+Brazil;I+Taken+the+computer+technical+course;I+intend+to+work+with+Front-end;Welcome+to+my+profile!+:%29![image](https://github.com/henrique-rafael11/henrique-rafael11/assets/138715501/868cb3f7-4dbe-4b0e-9a1d-58ed15a51df8)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2b58de&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋🏼,+My+name+is+Henrique+Rafael;I'm+20+years+old;I'm+from+Brazil;I+Taken+the+computer+technical+course;I+intend+to+work+with+Front-end;Welcome+to+my+profile!+:%29!+[image](https://github.com/henrique-rafael11/henrique-rafael11/assets/138715501/868cb3f7-4dbe-4b0e-9a1d-58ed15a51df8)
 )](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=henrique-rafael11&bg_color=000000&color=00cddb&line=0e0269&point=08a6a6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
