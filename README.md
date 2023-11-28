@@ -1,7 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b58de&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2b58de&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋🏼,+My+name+is+Henrique+Rafael;I'm+20+years+old;I'm+from+Brazil;I+Taken+the+computer+technical+course;I+intend+to+work+with+Front-end;Welcome+to+my+profile!+:%29!)
-](https://git.io/typing-svg)
+](https://git.io/typing-svg)![image](https://github.com/henrique-rafael11/henrique-rafael11/assets/138715501/13a4012e-f337-4026-81c2-a1c2d6918987)
+
+
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=henrique-rafael11&bg_color=000000&color=00cddb&line=0e0269&point=08a6a6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
