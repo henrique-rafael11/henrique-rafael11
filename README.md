@@ -1,7 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b58de&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2b58de&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋🏼,+My+name+is+Henrique+Rafael;I'm+20+years+old;I'm+from+Brazil;I+Taken+the+computer+technical+course;I+intend+to+work+with+Front-end;Welcome+to+my+profile!+:%29!)
-](https://git.io/typing-svg)![image](https://github.com/henrique-rafael11/henrique-rafael11/assets/138715501/13a4012e-f337-4026-81c2-a1c2d6918987)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2b58de&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋🏼,+My+name+is+Henrique+Rafael;I'm+20+years+old;I'm+from+Brazil;I+Taken+the+computer+technical+course;I+intend+to+work+with+Front-end;Welcome+to+my+profile!+:%29!+![WelcomeGIF](https://github.com/henrique-rafael11/henrique-rafael11/assets/138715501/7a0757e6-3141-427c-8e16-bc9092bc4f62)
+)
+](https://git.io/typing-svg)
 
 
 
