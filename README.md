@@ -17,17 +17,11 @@
   <a href="https://www.linkedin.com/in/henriquerafaelsgtecnicoti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+<div>
+   <a href="https://github.com/henrique-rafael11">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrique-rafael1&show_icons=true&theme=dark&include_all_commits=true&count_"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-rafael1&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
 - ## Tecnologias que eu uso no meu dia
  <div style="display: inline_block"><br>
