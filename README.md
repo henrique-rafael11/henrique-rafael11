@@ -34,7 +34,8 @@
 ### linguagens de programação que estou estudando atualmente:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=000000)&nbsp;
 ![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=000000)&nbsp; 
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labeltextColor=000000)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=000000)&nbsp;
+
 
 <div align="center">
 <br><p align="centre"><b>Contagem de visitantes</b></p>  
