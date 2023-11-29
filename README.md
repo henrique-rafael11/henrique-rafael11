@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b58de&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=23238E&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169e1&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋🏼,+My+name+is+Henrique+Rafael;I'm+20+years+old;I'm+from+Brazil;I+Taken+the+computer+technical+course;I+intend+to+work+with+Front-end;Welcome+to+my+profile!+🙂)
 ](https://git.io/typing-svg)
@@ -53,5 +53,5 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b58de&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=23238E&height=120&section=footer"/>
 
