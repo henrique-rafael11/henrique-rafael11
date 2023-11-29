@@ -20,6 +20,7 @@
    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-rafael11&layout=compact&hide_border=true&title_color=0092C4&text_color=0092C4&bg_color=000000" />
 </div>
 
+### Redes Socias:
 
 <div align="center"> 
  <a href="https://api.whatsapp.com/send?phone=5511978796409&text=Hello!" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511978796409&text=Hello!" style="border-radius: 30px" target="_blank"></a>  
