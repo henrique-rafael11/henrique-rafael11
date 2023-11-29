@@ -48,7 +48,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Contagem de visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{henrique-rafael11}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{kaioosilva}/count.svg" /></p> 
 <br>
 </div>
 
