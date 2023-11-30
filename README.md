@@ -45,6 +45,11 @@
 ![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=000000)&nbsp; 
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=000000)&nbsp;
 
+<hr>
+
+<p align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=600&center=true&width=435&lines=Living+is+than+dreaming" alt="Typing SVG" /></a>
+</p> <br> <br>
 
 <div align="center">
 <br><p align="centre"><b>Contagem de visitantes</b></p>  
