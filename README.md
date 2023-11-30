@@ -4,8 +4,6 @@
 ](https://git.io/typing-svg)
 
 
-
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=henrique-rafael11&bg_color=000000&color=00cddb&line=0e0269&point=08a6a6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
@@ -21,7 +19,7 @@
 </div>
 
 ### Redes Socias:
-
+<hr>
 <div align="center"> 
  <a href="https://api.whatsapp.com/send?phone=5511978796409&text=Hello!" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511978796409&text=Hello!" style="border-radius: 30px" target="_blank"></a>  
 <a href="https://instagram.com/henrique.rsg.11/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
@@ -31,7 +29,7 @@
 </div>
 
   
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
   ### Habilidades Principais:
