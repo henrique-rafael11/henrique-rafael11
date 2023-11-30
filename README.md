@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=23238E&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=40e0d0&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋🏼,+My+name+is+Henrique+Rafael;I'm+20+years+old;I'm+from+Brazil;I+Taken+the+computer+technical+course;I+intend+to+work+with+Front-end;Welcome+to+my+profile!+🙂)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3299CC&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋🏼,+My+name+is+Henrique+Rafael;I'm+20+years+old;I'm+from+Brazil;I+Taken+the+computer+technical+course;I+intend+to+work+with+Front-end;Welcome+to+my+profile!+🙂)
 ](https://git.io/typing-svg)
 
 
@@ -47,9 +47,10 @@
 
 <hr>
 
-<p align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=600&center=true&width=435&lines=Living+is+than+dreaming" alt="Typing SVG" /></a>
-</p> <br> <br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3299CC&size=35&center=true&vCenter=true&width=1000&lines=Living+is+than+Dreaming)
+](https://git.io/typing-svg)
+
+<hr>
 
 <div align="center">
 <br><p align="centre"><b>Contagem de visitantes</b></p>  
