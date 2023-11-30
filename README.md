@@ -12,7 +12,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=henrique-rafael11&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-
+<hr>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=henrique-rafael11&show_icons=true&count_private=true&hide_border=true&title_color=0092C4&icon_color=0092C4&text_color=c9d1d9&bg_color=000000" alt="Henrique Rafael github stats" /> 
    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-rafael11&layout=compact&hide_border=true&title_color=0092C4&text_color=0092C4&bg_color=000000" />
