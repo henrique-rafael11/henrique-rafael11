@@ -33,13 +33,10 @@
 
 
 <a href="mailto:garciaherique539@gmail.com">
-<img align="center"  height="80" width="80" src="https://gmail.com/henrique-rafael11/henriquerafael11/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
+<img align="center"  height="64" width="64" src="https://gmail.com/henrique-rafael11/henriquerafael11/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
 </a>
 
 
-<a  href="https://www.linkedin.com/in/henriquerafaelsgtecnicoti/" target=_blank>
-<img align="center"  height="64" width="64" src="<src="https://github.com/henrique-rafael11/henriquerafael11/assets/c07e5e2e-da5c-466a-9568-3b2c82f819f5"/>
-</a>
 
 </div>
 
