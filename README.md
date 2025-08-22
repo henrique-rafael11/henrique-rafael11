@@ -37,7 +37,7 @@
 </a>
 
 <a  href="https://www.linkedin.com/in/henriquerafaelsgtecnicoti/" target=_blank>
-<img align="center"  height="64" width="64" src="<src="https://github.com/henrique-rafael11/henriquerafael11/assets/95f7b19d-5f95-4922-af2e-4e0a9c061967"/>
+<img width="64" height="64" alt="Image" src="https://github.com/henrique-rafael11/henriquerafael11/assets/47e97d48-f067-4152-9665-0e68d3de8210" />
 </a>
 
 
