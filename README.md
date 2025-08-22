@@ -24,16 +24,16 @@
 
 <div align="center"> 
 <a href="https://www.instagram.com/henrique.rsg_/" target="_blank">
-<img align="center" height="64" width="64" src="https://instagram.com/henrique-rafael11/henriquerafael11/assets/6b0bde06-7e38-4ba4-885a-4a6845169fe2">
+<img align="center" height="64" width="64" src="https://github.com/henrique-rafael11/henriquerafael11/assets/6b0bde06-7e38-4ba4-885a-4a6845169fe2">
 </a>
 
 <a href="https://www.youtube.com/@henriquegarcia7030" target="_blank">
-<img align="center" height="64" width="64" src="https://youtube.com/henrique-rafael11/henriquerafael11/assets/be0ebb30-b0d5-4a63-a7f6-6a9824ff6e85">
+<img align="center" height="64" width="64" src="https://github.com/henrique-rafael11/henriquerafael11/assets/be0ebb30-b0d5-4a63-a7f6-6a9824ff6e85">
 </a>
 
 
 <a href="mailto:garciaherique539@gmail.com">
-<img align="center"  height="64" width="64" src="https://gmail.com/henrique-rafael11/henriquerafael11/assets/2e405728-31cc-4588-8cb9-fe03d69af002">
+<img align="center"  height="64" width="64" src="https://github.com/henrique-rafael11/henriquerafael11/assets/2e405728-31cc-4588-8cb9-fe03d69af002">
 </a>
 
 <a  href="https://www.linkedin.com/in/henriquerafaelsgtecnicoti/" target=_blank>
