@@ -24,7 +24,7 @@
 
 <div align="center"> 
 <a href="https://www.instagram.com/henrique.rsg_/" target="_blank">
-<img align="center" height="84" width="84" src="https://instagram.com/henrique-rafael11/henriquerafael11/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
+<img align="center" height="64" width="64" src="https://instagram.com/henrique-rafael11/henriquerafael11/assets/6b0bde06-7e38-4ba4-885a-4a6845169fe2">
 </a>
 
 <a href="https://www.youtube.com/@henriquegarcia7030" target="_blank">
@@ -36,6 +36,9 @@
 <img align="center"  height="64" width="64" src="https://gmail.com/henrique-rafael11/henriquerafael11/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
 </a>
 
+<a  href="https://www.linkedin.com/in/henriquerafaelsgtecnicoti/" target=_blank>
+<img align="center"  height="64" width="64" src="<src="https://github.com/henrique-rafael11/henriquerafael11/assets/c07e5e2e-da5c-466a-9568-3b2c82f819f5"/>
+</a>
 
 
 </div>
