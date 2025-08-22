@@ -23,8 +23,6 @@
 ### Redes Socias:
 
 <div align="center"> 
- <a href="https://api.whatsapp.com/send?phone=5511978796409&text=Hello!" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511978796409&text=Hello!" style="border-radius: 30px" target="_blank"></a>  
-
 <a href="https://www.instagram.com/henrique.rsg_/" target="_blank">
 <img align="center" height="84" width="84" src="https://instagram.com/henrique-rafael11/henriquerafael11/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
 </a>
