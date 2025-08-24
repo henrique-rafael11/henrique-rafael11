@@ -79,6 +79,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00AEEF&size=35&center=true&vCenter=true&width=1000&lines=Living+is+than+Dreaming!)
 ](https://git.io/typing-svg)
+<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00AEEF&size=25&center=true&vCenter=true&width=1000&lines=I+intend+to+become+a+technologist+in+systems+analysis+and+development)](https://git.io/typing-svg)
 
 <br>
 
