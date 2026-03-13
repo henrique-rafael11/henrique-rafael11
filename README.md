@@ -60,10 +60,11 @@
 
   ### Habilidades Principais:
 <div align="left"> 
-<img width="64" height="64" alt="Image" src="https://github.com/user-attachments/assets/393cb97e-b64b-4e46-b3f2-3f2a850724ae" />
-<img width="64" height="64" alt="Image" src="https://github.com/user-attachments/assets/6e9641ea-3010-466d-9003-0173974952e4" />
-<img width="64" height="64" alt="Image" src="https://github.com/user-attachments/assets/514e75d3-98fb-4dd9-83bc-c637e34eb4aa" />
-<img align="center" alt="henrique-java" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img align="center" alt="Henrique-HTML" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Henrique-CSS" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Henrique-java" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img align="center" alt="Henrique-C" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+
 
 
 
