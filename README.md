@@ -59,6 +59,8 @@
 <div align="left"> 
 <img align="center" alt="Henrique-HTML" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Henrique-CSS" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Henrique-java-script" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java-script/java-script-original.svg">
+<img align="center" alt="Henrique-C" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 <img align="center" alt="Henrique-java" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img align="center" alt="Henrique-C" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 
@@ -68,8 +70,8 @@
 
 ### Linguagens de Programação que estou Estudando Atualmente:
 <div align="left"> 
-<img width="64" height="64" alt="Image" src="https://github.com/user-attachments/assets/514e75d3-98fb-4dd9-83bc-c637e34eb4aa" />
-<img width="64" height="64" alt="Image" src="https://github.com/user-attachments/assets/d2189e03-c7b2-490e-a32b-5e17ff94e439" />
+<img align="center" alt="Henrique-java" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img align="center" alt="Henrique-C" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 
 </div>
 
