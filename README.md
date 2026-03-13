@@ -59,10 +59,10 @@
 <div align="left"> 
 <img align="center" alt="Henrique-HTML" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Henrique-CSS" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Henrique-java-script" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java-script/java-script-original.svg">
+<img align="center" alt="Rafa-Js" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Henrique-C" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 <img align="center" alt="Henrique-java" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img align="center" alt="Henrique-C" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+
 
 </div>
 
