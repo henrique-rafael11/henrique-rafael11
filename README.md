@@ -86,10 +86,7 @@
 
 <br>
 
-<p align="centre"><b>Visitors Count</b></p> 
-  
-<p align="center"><<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fhenrique-rafael11&s=50&c=0092c4&bg=00000000&no=2&ff=digi&tb=Visitantes&ta=" alt="visits"> /></p> 
-<br>
+
 </div>
 
 
