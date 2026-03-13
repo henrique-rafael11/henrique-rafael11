@@ -63,6 +63,8 @@
 <img width="64" height="64" alt="Image" src="https://github.com/user-attachments/assets/393cb97e-b64b-4e46-b3f2-3f2a850724ae" />
 <img width="64" height="64" alt="Image" src="https://github.com/user-attachments/assets/6e9641ea-3010-466d-9003-0173974952e4" />
 <img width="64" height="64" alt="Image" src="https://github.com/user-attachments/assets/514e75d3-98fb-4dd9-83bc-c637e34eb4aa" />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 
 </div>
 
