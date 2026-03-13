@@ -62,7 +62,6 @@
 <img align="center" alt="Rafa-Js" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Henrique-C" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 <img align="center" alt="Henrique-java" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-![c](https://github.com/user-attachments/assets/c0e979f3-07d3-494d-a356-58e389a3a17d)<svg width="64" height="64" fill="currentColor" viewBox="0 0 24 24" transform="" id="injected-svg" xmlns="http://www.w3.org/2000/svg"><path d="m19.12 6.42-7.35-4.24a1.74 1.74 0 0 0-1.54 0L2.88 6.42a1.74 1.74 0 0 0-.77 1.34v8.48a1.56 1.56 0 0 0 .23.76 1.7 1.7 0 0 0 .54.58l7.35 4.24a1.74 1.74 0 0 0 1.54 0l7.35-4.24a1.7 1.7 0 0 0 .54-.58 1.56 1.56 0 0 0 .23-.76V7.76a1.56 1.56 0 0 0-.23-.76 1.7 1.7 0 0 0-.54-.58M11 15a3 3 0 0 0 2.57-1.48L16.13 15a5.93 5.93 0 1 1 0-5.93l-2.56 1.48A3 3 0 1 0 11 15"></path></svg>
 
 </div>
 
