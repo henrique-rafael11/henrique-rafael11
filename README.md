@@ -70,6 +70,7 @@
 
 ### Linguagens de Programação que estou Estudando Atualmente:
 <div align="left"> 
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Henrique-java" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img align="center" alt="Henrique-C" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 
